@@ -1,7 +1,7 @@
 #start web project 
 
-## introduction
+##introduction
 
-## purpose
+##purpose
 
 ##how to contribute
