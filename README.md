@@ -1,9 +1,9 @@
-#start web project 
+# start web project 
+this is a simple project
+## introduction
 
-##introduction
+## purpose
 
-##purpose
+## deployment
 
-##deployment
-
-##how to contribute
+## how to contribute
