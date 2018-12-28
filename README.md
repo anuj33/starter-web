@@ -7,3 +7,5 @@ as stated above
 ## deployment
 deployment can be any web
 ## how to contribute
+
+copyright notice 
